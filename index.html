@@ -86,7 +86,7 @@
       </p>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-3 justify-center mt-5 px-4">
         <div class="flex items-start bg-white space-x-1 lg:space-x-5 rounded-xl shadow-lg px-2 py-3 lg:px-5">
-          <img src="./img/averie-woodard-5d20kdvFCfA-unsplash.jpg" class="mt-2 w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] rounded-xl shadow-lg"
+          <img src="/img/averie-woodard-5d20kdvFCfA-unsplash.jpg" class="mt-2 w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] rounded-xl shadow-lg"
             alt="">
           <div class=" px-1 lg:px-4">
             <h2 class="font-semibold text-lg lg:text-2xl text-slate-800">Lorem ipsum dolor</h2>
@@ -97,7 +97,7 @@
 
         </div>
         <div class="flex justify-start bg-white space-x-2 lg:space-x-5 rounded-xl shadow-lg py-3 px-2 lg:px-5">
-          <img src="./img/william-white-cF6fz9QwfrY-unsplash.jpg" class="mt-2 w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] rounded-xl shadow-lg" alt="">
+          <img src="/img/william-white-cF6fz9QwfrY-unsplash.jpg" class="mt-2 w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] rounded-xl shadow-lg" alt="">
           <div class="px-2 lg:px-4">
             <h2 class="font-semibold text-lg lg:text-2xl text-slate-800">Lorem ipsum dolor</h2>
             <p class="text-slate-400 text-xs lg:text-base mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -106,7 +106,7 @@
 
         </div>
         <div class="flex justify-start bg-white space-x-2 lg:space-x-5 rounded-xl shadow-lg py-3 px-2 lg:px-5">
-          <img src="./img/mohamed-nohassi-odxB5oIG_iA-unsplash.jpg" class="mt-2 w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] rounded-xl shadow-lg" alt="">
+          <img src="/img/mohamed-nohassi-odxB5oIG_iA-unsplash.jpg" class="mt-2 w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] rounded-xl shadow-lg" alt="">
           <div class="px-2 lg:px-4">
             <h2 class="font-semibold text-lg lg:text-2xl text-slate-800">Lorem ipsum dolor</h2>
             <p class=" text-slate-400 text-xs lg:text-base mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -114,7 +114,7 @@
           </div>
         </div>
         <div class="flex justify-start bg-white space-x-2 lg:space-x-5 rounded-xl shadow-lg py-3 px-2 lg:px-5">
-          <img src="./img/nathan-mcbride-RP6Ba_6U154-unsplash.jpg" class=" mt-2 w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] rounded-xl shadow-lg" alt="">
+          <img src="/img/nathan-mcbride-RP6Ba_6U154-unsplash.jpg" class=" mt-2 w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] rounded-xl shadow-lg" alt="">
           <div class="px-2 lg:px-4">
             <h2 class="font-semibold text-lg lg:text-2xl text-slate-800">Lorem ipsum.</h2>
             <p class="text-slate-400 text-xs lg:text-base mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
